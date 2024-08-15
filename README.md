@@ -1,4 +1,4 @@
-# Business_Intelligence_Dashboard
+# VizPulse
 
 Implemented a dynamic dashboard using Microsoft Power BI to visualize key performance indicators and trends.
 
